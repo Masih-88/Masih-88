@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Masih-88
-- 👀 I’m interested in data analysis using Pythton, SQL Server, Power BI, power Query, Advanced Exce, and other tools 
+- 👀 I’m interested in data analysis using Pythton, SQL Server, Power BI, power Query, Advanced Excel, and other related data analysis tools 
 - 🌱 I’m currently improving my knowledge of data analysis
 - 💞️ I’m looking to collaborate on SQL Server and Python Projects
 - 📫 You can reach me by my GitHub.
